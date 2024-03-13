@@ -12,7 +12,7 @@ IMAGE 1 FILE
 
 IMAGE 1 ALT TEXT
 
-`Modern Transit`
+Modern Transit`
 
 SMALLER SUB HEAD
 
@@ -56,7 +56,7 @@ SMALLER SUB HEAD
 
 LINK 1
 
-`Lonely Planet`
+``Lonely Planet
 `http://www.lonelyplanet.com/saudi-arabia/riyadh`
 
 LINK 2
